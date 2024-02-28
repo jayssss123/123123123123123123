@@ -14,8 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 # Education Background
 09/2019-06/2023 North China University of Technology
 
-# Major: Electronic information engineering GPA:80.3/100
-Major professional courses: Principles of Communications, Signals and Systems, Analog Electronics Technology, digital electronic technology,circuit analysis advanced mathematics
+# Major 
+Electronic information engineering GPA:80.3/100
+
+# Major professional courses
+Principles of Communications, Signals and Systems, Analog Electronics Technology, digital electronic technology,circuit analysis advanced mathematics
 
 # Internship experience
 07/08/2021-07/15/2021 Shijiazhuang Shuying Base in Beijing
