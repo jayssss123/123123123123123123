@@ -1,5 +1,5 @@
 ---
-title: "446 midterm"
+title: "My resume"
 author: "Yingjie Ji"
 date: "2024-02-28"
 output: rmdformats::readthedown
@@ -9,7 +9,7 @@ output: rmdformats::readthedown
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## My resume
+## My name：Yingjie Ji
 
 # Education Background
 09/2019-06/2023 North China University of Technology
