@@ -39,7 +39,7 @@ Knowing the loneliness of the old people, I decided to spare some time to accomp
 1. My Graduation thesis: Generation and recognition of communication baseband signals
 Abstract 
 2. Research Topics: Finished the sound analysis and proofreading in the matlab class
-I have learned and implemented many experiments in analog electronic technology and digital 
+I have learned and implemented many experiments in analog electronic technology and digital. 
 electronic technology
 
 # Hobbies and Skills
